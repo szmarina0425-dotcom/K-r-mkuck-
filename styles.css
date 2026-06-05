@@ -1,0 +1,67 @@
+body {background-color: #ffecf0;}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #fab0a7;
+  border: #ff7272 dotted 3px;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: #ff5eae;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #ff7272;
+}
+#navigacioköröm {   font-weight: bold;
+                    color: #ff5eae;
+                    text-transform: uppercase;
+                    size: 50px;
+                    background-image: url(Pink\ Stripes\ Simple\ Background\ Wallpaper\ Image\ For\ Free\ Download\ -\ Pngtree.jpg);
+                    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+ol {list-style-type: circle;}
+ol li span a {border: #ff7272 2px solid;
+            margin: 5px;
+            padding: 5px;
+            text-decoration: none;
+            font-style: italic;
+            font-family: 'Courier New', Courier, monospace;
+            font-weight: bold;
+            color: #ff5eae;}
+.row {  display: flex;
+        gap: 16px;}
+.kep {  width: 300px;
+        height: 300px;
+        object-fit: cover;
+        border: 1px solid #ff5eae;}
+footer {background-color: #ff5eae;
+        text-align: center;
+        color: white;}
+h3 {
+  font-weight: bold;
+  color: #ff5eae;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-decoration: underline;
+}
+h2 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: #ff5eae;
+    border: #ff5eae solid 3px;
+    text-align: center;}
+#alcim {font-size: 20px;
+        color: #ff7272;
+        text-align: center;}
+h5 {
+    font-weight: bold;
+    font-size: 10px;
+    color: #ff5eae;}
